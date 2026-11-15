@@ -5,7 +5,9 @@
 
 &nbsp;
 
-<img src="mídias/passwordcracking.png" alt="Password Cracking" title="Password Cracking" width="500">
+<div align="center">
+  <img src="mídias/passwordcracking.png" alt="Password Cracking" title="Password Cracking" width="500">
+</div>
 
 ## Introdução
 
