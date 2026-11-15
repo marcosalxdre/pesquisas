@@ -12,7 +12,13 @@ O propósito do hashing, no contexto do armazenamento de senhas, é permitir que
 
 O hashing é uma operação que transforma uma entrada (neste caso, a senha do usuário) em uma sequência de caracteres ilegível e de tamanho fixo. Uma das principais características do hashing — o que é também uma das suas principais diferenças em relação a criptografia — é ser unidirecional, ou seja, o dado original não pode ser recuperado a partir do hash gerado. É impossível “descriptografar” um hash e chegar ao dado original, o que é um dos principais motivos do porquê essa abordagem é a mais adequada para o armazenamento de senhas.
 
-![hashing](..\..\mídias\hashingprocess.png "Processo de Hashing")
+&nbsp;
+
+<div align="center">
+  <img src="../../mídias/hashingprocess.png" alt="Hashing" title="Processo de Hashing" width="500">
+</div>
+
+&nbsp;
 
 Outra característica do hashing é que uma mesma entrada sempre gerará o mesmo valor de hash; ou seja, o hashing é o que chamamos de determinístico. Isso significa que: mesma entrada = mesmo hash. Uma única alteração na entrada fará com que um hash totalmente diferente seja gerado.
 
@@ -28,6 +34,8 @@ O hashing corretamente implementado garante que a senha em texto simples jamais 
 
 Como dito, existem algoritmos de hash projetados especificamente para tornar o armazenamento de senhas mais seguro e dificultar sua recuperação por meio de ataques de quebra. Esses algoritmos devem ser tão lentos quanto for possível suportar, isto é, sem que a experiência dos usuários e a performance do sistema sejam prejudicadas. alguns algoritmos modernos se destacam nesse caso, como Argon2id, scrypt, bcrypt e PBKDF2.
 
+&nbsp;
+
 ## Criptografia
 
 A criptografia é a arte de transformar informações legíveis em um formato ilegível, de modo que apenas quem possua a chave de descriptografia correta possa recuperar o conteúdo original.
@@ -36,7 +44,13 @@ Uma das principais diferenças entre hashing e criptografia é que, na criptogra
 
 Para realizar o processo de criptografia e descriptografia, uma ou mais chaves de criptografia são geradas e utilizadas, dependendo da abordagem de criptografia utilizada. Esse artigo não tratará o conceito de criptografia a fundo, entendê-lo melhor aqui: https://www.ibm.com/topics/encryption
 
-![Criptografia vs Hashing](..\..\mídias\criptografiavshashing.png "Criptografia vs Hashing")
+&nbsp;
+
+<div align="center">
+  <img src="../../mídias/criptografiavshashing.png" alt="Criptografia vs Hashing" title="Criptografia vs Hashing" width="500">
+</div>
+
+&nbsp;
 
 Com respeito ao armazenamento seguro de senhas, a criptografia apresenta algumas desvantagens. A principal delas, como você já deve imaginar, é que o texto original pode ser recuperado a partir do produto cifrado. Em outras palavras, qualquer pessoa que obtiver acesso ao texto cifrado e à chave correta poderá recuperar a senha em texto simples. Assim, a criptografia implica questões como a gestão segura das chaves (quem as guarda e manipula, e como são protegidas). Nesse caso, se a chave vazar, o agente poderá decifrar todos os dados criptografados.
 
@@ -46,4 +60,4 @@ Apesar da menção a criptografia como um meio de armazenamento “responsável�
 
 ---
 
-[Índice da pesquisa](../README.md) · [Índice de técnicas](../03-tecnicas-de-quebra/README.md)
+[Índice da pesquisa](../../README.md#%C3%ADndice)
