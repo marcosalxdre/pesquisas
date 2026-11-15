@@ -29,8 +29,8 @@ Os tópicos estão organizados por assunto. Clique em qualquer título para abri
 
 ### 1. Fundamentos
 
-1. [O que são senhas?](01-fundamentos/01-o-que-sao-senhas.md)
-2. [Como as senhas são armazenadas?](01-fundamentos/02-armazenamento-de-senhas.md)
+1. [O que são senhas?](content/01-fundamentos/01-o-que-sao-senhas.md)
+2. [Como as senhas são armazenadas?](content/01-fundamentos/02-armazenamento-de-senhas.md)
 
 ### 2. Password Cracking
 
