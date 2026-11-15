@@ -5,8 +5,9 @@
 **Autor:** Marcos Pinheiro   
 **Origem:** Artigo originalmente publicado no Medium no perfil: https://medium.com/@marcos.aba
 
+&nbsp;
 
-![passwordcracking](mídias/passwordcracking.png "Password Cracking")
+<img src="mídias/passwordcracking.png" alt="Password Cracking" title="Password Cracking" width="500">
 
 ---
 
