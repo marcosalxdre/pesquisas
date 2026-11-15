@@ -6,6 +6,8 @@ De toda maneira, creio que a compreensão destes conceitos fundamentais e das pr
 
 Meu objetivo, como citei há pouco, é, no futuro, adicionar outros materiais nos quais tenho trabalhado e que se relacionam com o mesmo tema, embora de forma mais aprofundada. 
 
+&nbsp;
+
 Autor: Marcos Pinheiro
 
 LinkedIn: https://www.linkedin.com/in/marcos-pinheiro-956623267
