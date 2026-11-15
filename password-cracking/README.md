@@ -14,12 +14,14 @@
 As senhas são um dos mecanismos de segurança mais antigos e ainda hoje constituem a forma mais comum de autenticação digital. Elas funcionam como “chaves de acesso” e nos ajudam a proteger dispositivos, sistemas e informações sensíveis.
 
 Assim como toda forma de proteção criada com o objetivo de resguardar algo de valor, o uso de senhas como mecanismo de segurança, igualmente, sempre envolveu a existência de vulnerabilidades e motivou tanto o desenvolvimento de técnicas para contornar seu uso quanto o estudo dessas fraquezas, visando aprimorar sua eficácia.
-Especificamente no caso das senhas como forma de proteger sistemas e dispositivos digitais, a quebra de senhas, o assunto principal deste artigo, surgiu justamente como uma maneira de contornar tal mecanismo.
-Este pequeno artigo tem, como mencionado anteriormente, o objetivo de esclarecer de forma básica a abordagem de quebra de senhas off-line (Password Cracking) e os conceitos relacionados. A quebra de senhas off-line ocorre quando o perpetrador do ataque já possui os hashes de senha e o processo de recuperação do texto em claro é realizado de maneira offline.
-Há uma outra abordagem de ataque a senhas conhecida como “Password Guessing”, em que tentativas de adivinhação da senha (ou credenciais) são realizadas contra e interagindo com serviços on-line através das suas interfaces de autenticação. Esta abordagem não será tratada a fundo neste artigo, sendo mencionada brevemente apenas para explicar a diferença entre ataques on-line e off-line; a aquisição dos hashes de senha, por sua vez, também está fora do escopo deste artigo.
-Obs: Visto que o ataque de quebra de senhas pode ter razões legítimas, o termo “agente” é usado neste artigo para se referir aquele que executa a operação de quebra, independente de sua motivação.
 
----
+Especificamente no caso das senhas como forma de proteger sistemas e dispositivos digitais, a quebra de senhas, o assunto principal deste artigo, surgiu justamente como uma maneira de contornar tal mecanismo.
+
+Este pequeno artigo tem o objetivo de esclarecer de forma básica a abordagem de quebra de senhas off-line (Password Cracking) e os conceitos relacionados. A quebra de senhas off-line ocorre quando o perpetrador do ataque já possui os hashes de senha e o processo de recuperação do texto em claro é realizado de maneira offline.
+
+Há uma outra abordagem de ataque a senhas conhecida como “Password Guessing”, em que tentativas de adivinhação da senha (ou credenciais) são realizadas contra e interagindo com serviços on-line através das suas interfaces de autenticação. Esta abordagem não será tratada a fundo neste material, sendo mencionada brevemente apenas para explicar a diferença entre ataques on-line e off-line; a aquisição dos hashes de senha, por sua vez, também está fora do escopo deste artigo.
+
+> Obs: Visto que o ataque de quebra de senhas pode ter razões legítimas, o termo “agente” é usado neste artigo para se referir aquele que executa a operação de quebra, independente de sua motivação.
 
 ---
 
