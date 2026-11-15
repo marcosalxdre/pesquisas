@@ -23,6 +23,8 @@ Há uma outra abordagem de ataque a senhas conhecida como “Password Guessing�
 
 > Obs: Visto que o ataque de quebra de senhas pode ter razões legítimas, o termo “agente” é usado neste artigo para se referir aquele que executa a operação de quebra, independente de sua motivação.
 
+&nbsp;
+
 ## Índice
 
 Os tópicos estão organizados por assunto. Clique em qualquer título para abrir diretamente o respectivo arquivo.
