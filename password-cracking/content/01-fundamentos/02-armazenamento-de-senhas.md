@@ -4,6 +4,8 @@ No que diz respeito ao armazenamento seguro de senhas em sistemas de autenticaç
 
 A seguir, veremos uma breve explicação dessas duas abordagens aplicadas ao contexto do armazenamento de senhas, o que fornecerá o background necessário para que seja possível visualizar a relevância do processo de quebra de senhas. Embora pareça um tópico simples, a possibilidade de recuperar uma senha por meio de operações de quebra e o tempo necessário para isso são fortemente impactados pela maneira como a senha é armazenada em um sistema.
 
+&nbsp;
+
 ## Hashing
 
 O propósito do hashing, no contexto do armazenamento de senhas, é permitir que a senha de um usuário seja armazenada de forma segura, de modo que ninguém consiga recuperá-la.
