@@ -24,4 +24,4 @@ Da perspectiva de um ataque a senhas, quando o agente obtém o nome de usuário 
 
 ---
 
-[Índice da pesquisa](../README.md) · [Índice de técnicas](../03-tecnicas-de-quebra/README.md)
+[Índice da pesquisa](../../README.md) 
