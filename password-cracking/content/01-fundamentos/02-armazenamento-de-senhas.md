@@ -42,7 +42,7 @@ A criptografia é a arte de transformar informações legíveis em um formato il
 
 Uma das principais diferenças entre hashing e criptografia é que, na criptografia, os dados originais podem ser recuperados a partir do texto cifrado, enquanto no hashing, como mencionado anteriormente, isso não é possível. A operação, nesse caso, é denominada bidirecional.
 
-Para realizar o processo de criptografia e descriptografia, uma ou mais chaves de criptografia são geradas e utilizadas, dependendo da abordagem de criptografia utilizada. Esse artigo não tratará o conceito de criptografia a fundo, entendê-lo melhor aqui: https://www.ibm.com/topics/encryption
+Para realizar o processo de criptografia e descriptografia, uma ou mais chaves de criptografia são geradas e utilizadas, dependendo da abordagem de criptografia utilizada. Esse artigo não tratará o conceito de criptografia a fundo, entendê-lo melhor aqui: [What is encryption?](https://www.ibm.com/topics/encryption)
 
 &nbsp;
 
