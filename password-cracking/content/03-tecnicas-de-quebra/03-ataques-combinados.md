@@ -8,9 +8,9 @@ Um exemplo pode ser útil para entendermos melhor o conceito desse ataque.
 
 Imagine que um dos dicionários, o dicionário da esquerda, contenha as palavras “amor” e “pipa”. Já o segundo, o dicionário da direita, possua as palavras “gato” e “bola”. Dessa forma, um ataque combinado geraria uma lista de novas candidatas a senha formadas pela concatenação das strings de ambos os dicionários, resultando em novas candidatas como:
 
-amorgato
-amorbola
-pipagato
+amorgato   
+amorbola   
+pipagato   
 pipabola
 
 Em ataques combinados, o número total de combinações possíveis (keyspace) é obtido multiplicando-se o total de entradas de cada dicionário utilizado no ataque. De forma geral, o keyspace pode ser representado como k = d1 × d2 × … x dn. Assim, se tivéssemos dois dicionários modestos com 10.000 palavras cada, um ataque combinado teria um keyspace de 100 milhões de variações de senhas ou passphrases a serem testadas.
