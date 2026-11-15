@@ -8,6 +8,8 @@ Definindo tecnicamente, é o processo de recuperar um segredo em texto claro a p
 
 É um termo bastante amplo e que abrange diferentes abordagens, ferramentas, formas de armazenamento, métodos de transformação das senhas, entre outros aspectos relacionados.
 
+&nbsp;
+
 ## Casos de uso do Password Cracking
 
 A quebra de senhas, em seu uso legítimo, é normalmente empregada quando, por exemplo:
@@ -32,4 +34,4 @@ Embora possua aplicações legítimas, a quebra de senhas também é amplamente 
 
 ---
 
-[Índice da pesquisa](../README.md) · [Índice de técnicas](../03-tecnicas-de-quebra/README.md)
+[Índice da pesquisa](../../README.md#%C3%ADndice)
