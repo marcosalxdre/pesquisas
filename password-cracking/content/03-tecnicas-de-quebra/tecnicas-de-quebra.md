@@ -12,4 +12,4 @@ Há também uma outra abordagem conhecida como abordagem probabilística, que in
 
 --- 
 
-[Índice da pesquisa](../../README.md#%C3%ADndice) - [índice de técnicas de quebra](content/03-tecnicas-de-quebra)
+[Índice da pesquisa](../../README.md#%C3%ADndice) - [índice de técnicas de quebra](../../README.md#3-t%C3%A9cnicas-de-quebra)
