@@ -51,7 +51,7 @@ Os tópicos estão organizados por assunto. Clique em qualquer título para abri
 ### 4. Fatores de segurança
 
 1. [Quanto tempo leva para quebrar uma senha?](content/04-fatores-de-seguranca/01-tempo-de-quebra.md)
-2. [Tamanho, complexidade e usabilidade](content/04-fatores-de-seguranca/02-tamanho-complexidade-e-usabilidade.md)
+2. [Tamanho, complexidade e usabilidade da senha são tudo?](content/04-fatores-de-seguranca/02-tamanho-complexidade-e-usabilidade.md)
 
 ### 5. Ferramentas
 
