@@ -1,4 +1,4 @@
-# Visão geral das técnicas
+# Visão geral das técnicas de quebra de senhas offline
 
  Nesta parte do material serão abordadas as principais técnicas utilizadas em operações de quebra de senhas off-line. Será  possível visualizar, por exemplo, como cada técnica gera candidatas a senha, quais suposições cada uma delas adota sobre o espaço de senhas (keyspace) e em quais cenários o uso dessas técnicas tende a ser mais ou menos eficaz.
 
