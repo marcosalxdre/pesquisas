@@ -44,7 +44,9 @@ O Apêndice Informativo A — “Strength of Passwords”, seção A.1 “Introd
 
 - _“Os seres humanos têm uma capacidade limitada de memorizar segredos complexos e arbitrários, por isso frequentemente escolhem senhas que podem ser facilmente adivinhadas. Para lidar com essas preocupações, serviços online introduziram regras para aumentar a força efetiva dessas senhas. A forma mais notável disso são as regras de composição, que exigem que senhas sejam construídas usando uma mistura de tipos de caracteres (por exemplo, ao menos um dígito, letra maiúscula e símbolo). Porém, análises de bases de senhas vazadas mostram que o benefício dessas regras é menos significativo do que se imaginava, e o impacto na usabilidade e memorização é severo.”_
 
-_“A força efetiva das senhas escolhidas por usuários tem sido frequentemente caracterizada usando o conceito de entropia da teoria da informação. Embora a entropia possa ser calculada facilmente quando há uma distribuição determinística, estimar entropia em senhas criadas por usuários é desafiador. Por isso, uma abordagem mais simples, baseada principalmente no tamanho da senha, tem sido adotada.”_
+e
+
+- _“A força efetiva das senhas escolhidas por usuários tem sido frequentemente caracterizada usando o conceito de entropia da teoria da informação. Embora a entropia possa ser calculada facilmente quando há uma distribuição determinística, estimar entropia em senhas criadas por usuários é desafiador. Por isso, uma abordagem mais simples, baseada principalmente no tamanho da senha, tem sido adotada.”_
 
 &nbsp;
 
