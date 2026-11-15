@@ -4,7 +4,7 @@
 **Origem:** Artigo originalmente publicado no Medium no perfil: https://medium.com/@marcos.aba
 
 
-![passwordcracking](\..\..\mídias\passwordcracking.png "Password Cracking")
+![passwordcracking](mídias/criptografiavshashing.png "Password Cracking")
 
 ---
 
