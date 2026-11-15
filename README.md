@@ -4,4 +4,4 @@ Repositório de pesquisas e artigos relacionados à Tecnologia da Informação, 
 
 ## Conteúdos disponíveis
 
-- [Password Cracking: Conceitos Básicos e Principais Técnicas Utilizadas](password-cracking/README.md) — Sobre Password Cracking, desde fundamentos, modelos de armazenamento de senhas, técnicas de quebra offline e ferramentas.
+- [Password Cracking: Conceitos Básicos e Principais Técnicas Utilizadas](password-cracking/README.md) — Pesquisa sobre os fundamentos do Password Cracking, abordando modelos de armazenamento de senhas, técnicas de quebra offline, ferramentas utilizadas e conceitos relacionados à segurança de senhas.
