@@ -1,10 +1,10 @@
 # Password Cracking: Conceitos Básicos e Principais Técnicas Utilizadas
 
-**Autor:** Marcos Pinheiro  
+**Autor:** Marcos Pinheiro   
 **Origem:** Artigo originalmente publicado no Medium no perfil: https://medium.com/@marcos.aba
 
 
-![passwordcracking](..\..\mídias\passwordcracking.png "Password Cracking")
+![passwordcracking](\..\..\mídias\passwordcracking.png "Password Cracking")
 
 ---
 
