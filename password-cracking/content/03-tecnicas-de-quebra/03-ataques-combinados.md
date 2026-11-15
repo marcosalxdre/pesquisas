@@ -21,6 +21,8 @@ O comportamento implementado por essa técnica de ataque se torna especialmente 
 
 O ataque combinado surge, então, como uma técnica especialmente relevante para o comprometimento de senhas longas, pois permite testar combinações extensas evitando o elevado custo computacional e de tempo característico do brute force e também superar a limitação de alcance dos ataques de dicionário clássico.
 
+&nbsp;
+
 ---
 
-[Índice da pesquisa](../README.md) · [Índice de técnicas](../03-tecnicas-de-quebra/README.md)
+[Índice da pesquisa](../../README.md#%C3%ADndice)
