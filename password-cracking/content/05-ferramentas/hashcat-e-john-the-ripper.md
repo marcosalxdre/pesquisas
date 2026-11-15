@@ -44,7 +44,7 @@ O John the Ripper, em sua versão Jumbo, é geralmente considerado a ferramenta 
 
 Em contrapartida, o Hashcat se destaca quando a prioridade é a velocidade. Desenvolvido com o propósito de extrair o máximo desempenho do hardware disponível, busca alcançar as maiores taxas de processamento possíveis. Ao explorar de forma altamente eficiente o paralelismo de GPUs e CPUs modernas, atinge velocidades extremamente elevadas, sendo especialmente indicado para cenários nos quais o desempenho bruto é imprescindível.
 
-Não entrarei em detalhes aprofundados sobre o uso ou a implementação interna do Hashcat e do John the Ripper neste texto por dois motivos: primeiro, há bastante material disponível na internet sobre o uso de ambas as ferramentas, de fácil acesso; segundo, os aspectos relacionados ao funcionamento e às otimizações de baixo nível (como bit-slicing ou o uso do in-kernel rule engine, mencionados ao longo deste texto) serão abordados com maior profundidade em um material futuro.
+Não entrarei em detalhes aprofundados sobre o uso ou a implementação interna do Hashcat e do John the Ripper neste material por dois motivos: primeiro, há bastante conteúdo disponível na internet sobre o uso de ambas as ferramentas, de fácil acesso; segundo, os aspectos relacionados ao funcionamento e às otimizações de baixo nível (como bit-slicing ou o uso do in-kernel rule engine, mencionados ao longo deste texto) serão abordados com maior profundidade em um material futuro.
 
 &nbsp;
 
