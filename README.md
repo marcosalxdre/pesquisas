@@ -1,4 +1,4 @@
-# Pesquisas
+# Pesquisas e artigos
 
 Repositório de pesquisas e artigos relacionados à Tecnologia da Informação, com destaque para temas, conceitos e práticas voltados à segurança.
 
