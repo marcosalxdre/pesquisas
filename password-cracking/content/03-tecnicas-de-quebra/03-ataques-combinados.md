@@ -17,7 +17,7 @@ Imagine que um dos dicionários, o dicionário da esquerda, contenha as palavras
 
 &nbsp;
 
-Em ataques combinados, o número total de combinações possíveis (keyspace) é obtido multiplicando-se o total de entradas de cada dicionário utilizado no ataque. De forma geral, o keyspace pode ser representado como k = d1 × d2 × … x dn. Assim, se tivéssemos dois dicionários modestos com 10.000 palavras cada, um ataque combinado teria um keyspace de 100 milhões de variações de senhas ou passphrases a serem testadas.
+Em ataques combinados, o número total de combinações possíveis (keyspace) é obtido multiplicando-se o total de entradas de cada dicionário utilizado no ataque. De forma geral, o keyspace pode ser representado como _**k = d1 × d2 × … x dn**_. Assim, se tivéssemos dois dicionários modestos com 10.000 palavras cada, um ataque combinado teria um keyspace de 100 milhões de variações de senhas ou passphrases a serem testadas.
 
 É possível aplicar regras de mutação para modificar as palavras dos dicionários, como variações de capitalização, substituições de caracteres e outras transformações comuns e também utilizar mais de dois dicionários, mas essa é uma questão de implementação do ataque e pode ou não estar disponível dependendo da ferramenta utilizada.
 
