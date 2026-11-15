@@ -8,7 +8,9 @@ No glossário do NIST, esse conceito é definido como “um tipo de autenticador
 
 Utilizando a terminologia das Diretrizes de Identidade Digital do NIST, o segredo é mantido por uma parte chamada requerente (claimant), enquanto a parte que verifica a identidade do requerente é chamada de verificador (verifier). Quando o requerente demonstra com sucesso o conhecimento da senha ao verificador através de um protocolo de autenticação estabelecido, o verificador consegue inferir a identidade do requerente com base em dados armazenados (NIST SP 800–63–3, seção 4.3.3).
 
-![password](..\..\mídias\password.png "Password")
+<div align="center">
+  <img src="../../mídias/password.png" alt="Password" title="Password" width="500">
+</div>
 
 Como complemento, pode-se destacar que senhas são geralmente utilizadas junto a um nome de usuário ou outro meio de identificação. Essa combinação (senha + nome de usuário) é conhecida como “credenciais”.
 
