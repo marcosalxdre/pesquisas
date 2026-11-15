@@ -34,6 +34,8 @@ Investigadores forenses podem necessitar obter evidências protegidas por senha 
 
 Embora possua aplicações legítimas, a quebra de senhas também é amplamente utilizada de forma criminosa, com o objetivo de obter acesso não autorizado a sistemas, serviços, dados e recursos computacionais.
 
+&nbsp;
+
 ---
 
 [Índice da pesquisa](../../README.md#%C3%ADndice)
