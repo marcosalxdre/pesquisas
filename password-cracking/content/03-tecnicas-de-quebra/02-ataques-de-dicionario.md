@@ -16,6 +16,8 @@ Dedicar tempo à criação de um “dicionário” personalizado, a partir de pe
 
 Os ataques de dicionário são especialmente relevantes em cenários onde a escolha de senhas fracas, previsíveis ou reutilizadas é comum. Muitas credenciais são construídas a partir de palavras do cotidiano, nomes próprios, datas, sequências simples ou pequenas variações desses elementos, o que pode reduzir de forma significativa o esforço necessário em operações de quebra de senhas.
 
+&nbsp;
+
 ---
 
-[Índice da pesquisa](../README.md) · [Índice de técnicas](../03-tecnicas-de-quebra/README.md)
+[Índice da pesquisa](../../README.md#%C3%ADndice)
