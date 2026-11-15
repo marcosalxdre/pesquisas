@@ -12,6 +12,8 @@ Existem diversos fatores que influenciam a criação de senhas fortes e que pode
 
 Abordaremos cada uma delas a seguir.
 
+&nbsp;
+
 ## Tamanho das senhas
 
 Para quem busca implementar sistemas seguros ou criar senhas fortes, é correto afirmar que cada caractere adicional conta para aumentar a força da senha. De fato, a recomendação atual do NIST na SP 800–63B-4 é que as senhas criadas pelos usuários tenham, no mínimo, 8 caracteres quando utilizadas em conjunto com mecanismos de MFA, e que, quando utilizadas sozinhas (sem mecanismos adicionais de proteção), deve-se exigir senhas com pelo menos 15 caracteres, o que ajuda a oferecer um nível significativamente maior de segurança.
@@ -24,6 +26,8 @@ Como um exemplo disso, vamos considerar uma senha de 8 caracteres (a quantidade 
 
 Como visto, o número de tentativas necessárias aumenta exponencialmente a cada caractere adicionado, o que influencia diretamente o tempo total necessário para encontrar a senha correta.
 
+&nbsp;
+
 ## Aleatoriedade e Complexidade das senhas
 
 No caso da complexidade das senhas, aumenta-se a quantidade de símbolos possíveis para preencher cada espaço da sequência de caracteres. O objetivo é tornar a senha ainda mais resistente a operações de quebra, não apenas contra ataques que testam todas as possibilidades de uma sequência específica, como em ataques de força bruta, mas também contra os ataques que utilizam listas de senhas comuns e vazadas, ou sequências previsíveis de caracteres (como vimos anteriormente). Nesse sentido, o objetivo é dificultar o processo de quebra não somente em relação a quantidade de caracteres (o número de tentativas necessárias), mas também em relação a variedade de símbolos que podem ser utilizados em cada posição da sequência (na imprevisibilidade da senha).
@@ -31,6 +35,8 @@ No caso da complexidade das senhas, aumenta-se a quantidade de símbolos possív
 Por exemplo, seguindo o mesmo exemplo aplicado na seção anterior, onde consideramos uma senha de 8 caracteres formada apenas por letras minúsculas, imagine agora que, além dessas 26 letras minúsculas, incluamos também as 26 letras maiúsculas do alfabeto como opções de uso. Com maiúsculas e minúsculas, passaríamos a ter 52 caracteres possíveis para preencher cada posição da sequência de 8 caracteres. Nesse caso, a quantidade de tentativas necessárias para encontrar a senha correta saltaria para 53.459.728.531.456 (quase 53,5 trilhões), um valor 256 vezes maior do que as quase 209 bilhões de tentativas necessárias em uma senha de 8 caracteres contendo apenas letras minúsculas.
 
 É necessário lembrar que, nesses cálculos, estamos assumindo o pior cenário possível, onde o agente encontra a senha correta somente na última tentativa, o que representa o número máximo de combinações possíveis e salienta, do ponto de vista de quem deseja garantir a segurança, a importância de criar senhas fortes e dificultar ao máximo um possível processo de recuperação.
+
+&nbsp;
 
 ## Tempo necessário para operação de transformação da senha
 
@@ -44,6 +50,9 @@ Isso ocorre pois, embora o hashing seja uma operação utilizada em diversas ope
 Obs: Você deve ter notado que, até agora, a maior parte dos exemplos utilizou cenários baseados em ataques que testam todas as combinações possíveis, como os de força bruta, mesmo que existam outras abordagens de ataques a senha off-line ou mesmo outras abordagens de ataques para recuperar uma senha. Isso foi intencional. A verdade é que ataques desse tipo (brute force) na teoria, são capazes de quebrar qualquer senha, caso haja tempo e recursos suficientes (são especialmente úteis contra senhas de tamanho pequeno, por esse motivo). Mesmo assim, não estou afirmando que essa seja necessariamente a abordagem mais perigosa. Ataques como keylogging, phishing e engenharia social não se tornam menos eficazes quando a senha é longa ou complexa. Esses métodos atingem senhas robustas e senhas simples com a mesma facilidade (NIST SP 800–63B-4 — Apêndice Informativo A — “Strength of Passwords”, seção A.1 “Introduction”). Cada técnica de ataque se mostra mais eficiente em determinados contextos, e a escolha do perpetrador dependerá da situação, obviamente. A intenção é, na verdade, destacar a importância de criar senhas e sistemas suficientemente robustos para tornar a recuperação da senha o mais difícil possível ao agente de um ataque. Dessa forma, independentemente de o agente empregar força bruta, listas de senhas vazadas, dicionários ou qualquer outro método, nosso propósito, do ponto de vista da segurança, é tornar esse processo extremamente custoso e pouco viável.
 >
 
+&nbsp;
+
 ---
 
+[Índice da pesquisa](../../README.md#%C3%ADndice)
 [Índice da pesquisa](../README.md) · [Índice de técnicas](../03-tecnicas-de-quebra/README.md)
