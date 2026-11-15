@@ -56,7 +56,7 @@ Com respeito ao armazenamento seguro de senhas, a criptografia apresenta algumas
 
 Na autenticação com senhas criptografadas, o texto cifrado pode ser comparado diretamente, de maneira semelhante a abordagem com hashing, ou a senha pode ser descriptografada para validação da senha fornecida pelo usuário.
 
-Apesar da menção a criptografia como um meio de armazenamento “responsável” de senhas, essa abordagem não é a mais recomendada por organizações de referência em segurança da informação, como o NIST e OWASP, que recomendam fortemente o uso de hashing + salting. (OWASP Password Storage Cheat Sheet — Background, “Hashing vs Encryption”): [cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html).
+Apesar da menção a criptografia como um meio de armazenamento “responsável” de senhas, essa abordagem não é a mais recomendada por organizações de referência em segurança da informação, como o NIST e OWASP, que recomendam fortemente o uso de hashing + salting. (OWASP Password Storage Cheat Sheet — Background, “Hashing vs Encryption”): [Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html).
 
 ---
 
