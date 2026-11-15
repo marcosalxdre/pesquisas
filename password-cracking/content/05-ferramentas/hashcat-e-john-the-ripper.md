@@ -14,6 +14,8 @@ Ainda, para escalar o desempenho em sistemas modernos, o JtR adota modelos como 
 
 De forma geral, tanto o Hashcat quanto o John the ripper são capazes de explorar o paralelismo em CPU e, quando disponível, em termos de hardware e suporte a formatos específicos de hash, a capacidade de processamento de GPUs modernas, com o propósito de maximizar o throughput, isto é, o número de candidatas testadas por segundo.
 
+&nbsp;
+
 ## Por que GPUs são largamente utilizadas no contexto da quebra de senhas? E qual é a relevância das CPUs em operações que, por natureza, devem ser rápidas?
 
 De forma simplificada, pode-se afirmar que a principal vantagem do uso de GPUs em operações de quebra de senhas reside em sua arquitetura fortemente orientada à execução paralela.
@@ -26,7 +28,13 @@ Por outro lado, quando os algoritmos de hash são deliberadamente projetados com
 
 Ambas as ferramentas, Hashcat e John the Ripper, suportam centenas de formatos de hash, abrangendo desde funções de hash rápidas até mecanismos de armazenamento de senhas, KDFs e formatos específicos de sistemas, arquivos e aplicações, com diferenças no conjunto exato de algoritmos e variações suportados por cada uma. Há diversos formatos exclusivos em ambas, acumulados ao longo da evolução desses softwares, muitas vezes guiada por prioridades técnicas e arquiteturais distintas, bem como pelo desenvolvimento de módulos por comunidades e profissionais que, em diferentes momentos, tiveram necessidades específicas.
 
-![hashcat vs john](..\..\mídias\hashcat&john.png "hashcat vs john")
+&nbsp;
+
+<div align="center">
+  <img src="../../mídias/hashcat&john.png" alt="Hashcat vs John" title="Hashcat vs John" width="500">
+</div>
+
+&nbsp;
 
 As duas ferramentas tornaram-se componentes essenciais na caixa de ferramentas de pentesters, equipes de red team, peritos forenses e pesquisadores de segurança. O valor proporcionado por seu uso vai além dos processo de quebra em baixo nível, abordado superficialmente nesta seção, abrangendo também aspectos como acessibilidade, versatilidade e amplitude de recursos, que serão explorados com mais detalhes num material futuro.
 
@@ -38,6 +46,8 @@ Em contrapartida, o Hashcat se destaca quando a prioridade é a velocidade. Dese
 
 Não entrarei em detalhes aprofundados sobre o uso ou a implementação interna do Hashcat e do John the Ripper neste texto por dois motivos: primeiro, há bastante material disponível na internet sobre o uso de ambas as ferramentas, de fácil acesso; segundo, os aspectos relacionados ao funcionamento e às otimizações de baixo nível (como bit-slicing ou o uso do in-kernel rule engine, mencionados ao longo deste texto) serão abordados com maior profundidade em um material futuro.
 
+&nbsp;
+
 ---
 
-[Índice da pesquisa](../README.md) · [Índice de técnicas](../03-tecnicas-de-quebra/README.md)
+[Índice da pesquisa](../../README.md#%C3%ADndice)
