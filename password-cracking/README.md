@@ -41,7 +41,7 @@ Os tópicos estão organizados por assunto. Clique em qualquer título para abri
 
 ### 3. Técnicas de quebra
 
-1. [Visão geral das técnicas](content/tecnicas-de-quebra)
+1. [Visão geral das técnicas](content/tecnicas-de-quebra.md)
 2. [Ataques de força bruta](content/03-tecnicas-de-quebra/01-forca-bruta.md)
 3. [Ataques de dicionário](content/03-tecnicas-de-quebra/02-ataques-de-dicionario.md)
 4. [Ataques combinados](content/03-tecnicas-de-quebra/03-ataques-combinados.md)
