@@ -52,11 +52,15 @@ e
 
 O documento continua, na seção A.3 — _“Complexity”_, afirmando:
 
-_“Regras de composição são comumente usadas para tentar aumentar a dificuldade de adivinhar senhas escolhidas por usuários. No entanto, pesquisas mostram que os usuários respondem de maneiras bastante previsíveis às exigências impostas por essas regras. Por exemplo, alguém que escolheria ‘password’ como senha provavelmente escolherá ‘Password1’ se for obrigado a incluir uma letra maiúscula e um número, ou ‘Password1!’ se também for exigido um símbolo.”_
+- _“Regras de composição são comumente usadas para tentar aumentar a dificuldade de adivinhar senhas escolhidas por usuários. No entanto, pesquisas mostram que os usuários respondem de maneiras bastante previsíveis às exigências impostas por essas regras. Por exemplo, alguém que escolheria ‘password’ como senha provavelmente escolherá ‘Password1’ se for obrigado a incluir uma letra maiúscula e um número, ou ‘Password1!’ se também for exigido um símbolo.”_
 
-_“Senhas altamente complexas introduzem uma nova vulnerabilidade: são menos memoráveis e mais propensas a serem anotadas ou armazenadas de forma insegura. Embora algumas formas de registro não sejam necessariamente vulneráveis, várias delas são. Este é mais um motivo para não exigir senhas excessivamente longas ou complexas.”_
+e
 
-_“Exigências de tamanho e complexidade além das recomendadas aumentam significativamente a frustração do usuário e a dificuldade de uso. Como resultado, muitos usuários acabam contornando essas restrições de maneira contraproducente.”_
+- _“Senhas altamente complexas introduzem uma nova vulnerabilidade: são menos memoráveis e mais propensas a serem anotadas ou armazenadas de forma insegura. Embora algumas formas de registro não sejam necessariamente vulneráveis, várias delas são. Este é mais um motivo para não exigir senhas excessivamente longas ou complexas.”_
+
+e
+
+- _“Exigências de tamanho e complexidade além das recomendadas aumentam significativamente a frustração do usuário e a dificuldade de uso. Como resultado, muitos usuários acabam contornando essas restrições de maneira contraproducente.”_
 
 &nbsp;
 
