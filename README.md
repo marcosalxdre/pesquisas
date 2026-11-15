@@ -1,7 +1,7 @@
 # Pesquisas
 
-Repositório de artigos, estudos e pesquisas sobre tecnologia e segurança da informação.
+Repositório de pesquisas e artigos relacionados à Tecnologia da Informação, com destaque para temas, conceitos e práticas voltados à segurança.
 
-## Pesquisas disponíveis
+## Conteúdos disponíveis
 
-- [Password Cracking: Conceitos Básicos e Principais Técnicas Utilizadas](password-cracking/README.md) — fundamentos, armazenamento de senhas, técnicas de quebra offline e ferramentas.
+- [Password Cracking: Conceitos Básicos e Principais Técnicas Utilizadas](password-cracking/README.md) — Pesquisa sobre os fundamentos do Password Cracking, abordando modelos de armazenamento de senhas, técnicas de quebra offline, ferramentas utilizadas e conceitos relacionados à segurança de senhas.
