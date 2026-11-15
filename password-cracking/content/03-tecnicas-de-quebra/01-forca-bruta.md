@@ -8,6 +8,7 @@ Após a definição desses parâmetros, o ataque começará a gerar todas as com
 
 A forma mais comum consiste em gerar, inicialmente, todas as combinações a partir do tamanho mínimo, avançando progressivamente para as candidatas mais longas. Assim, por exemplo, se utilizássemos um charset composto pelos caracteres minúsculos do alfabeto latino (a-z), configurando o ataque para gerar as combinações em ordem alfabética, com tamanho mínimo de 4 e máximo de 6 caracteres, a geração das candidatas seguiria algo como:
 
+&nbsp;
 
 ```
               aaaa                   aaaaa                   aaaaaa
@@ -29,6 +30,8 @@ A forma mais comum consiste em gerar, inicialmente, todas as combinações a par
           4 caracteres           5 caracteres            6 caracteres
 ```
 
+&nbsp;
+
 Como visto, a cada tentativa, o valor do caractere na última posição é incrementado. Quando todas as possibilidades de “a” até “z” são esgotadas, o caractere na penúltima posição é incrementado e o processo é reiniciado, repetindo esse ciclo sucessivamente.
 
 A geração começa pelo comprimento mínimo (4). As combinações, neste caso, são testadas em ordem alfabética, desde aaaa até a última combinação de 4 caracteres (zzzz). Após esgotar todas as combinações possíveis de 4 caracteres, o ataque passa para o próximo comprimento (5). Novamente, as senhas são testadas em ordem alfabética, desde aaaaa até zzzzz. Em seguida, o ataque avança para o comprimento máximo especificado (6). A progressão continua alfabeticamente, de aaaaaa até zzzzzz, isto é, até que todo o espaço de combinações possíveis seja completamente percorrido.
@@ -39,6 +42,8 @@ O espaço total de busca (keyspace) de um ataque incremental pode ser calculado 
 
 Utilizando como base nosso exemplo anterior onde temos um charset de tamanho 26 (a–z), um tamanho mínimo de 4 e um tamanho máximo de 6:
 
+&nbsp;
+
 ```
     k = 26⁴ + 26⁵ + 26⁶
     26⁴ = 456.976
@@ -48,6 +53,8 @@ Utilizando como base nosso exemplo anterior onde temos um charset de tamanho 26 
     k = 321.254.128
 ```
 
+&nbsp;
+
 temos, nesse caso, cerca de 321 milhões de combinações possíveis.
 
 A técnica de força bruta costuma ser altamente eficaz contra senhas curtas (menores que 7–8 caracteres) armazenadas com algoritmos de hashing inadequados para este fim. Computadores com hardware relativamente comum conseguem quebrar senhas nesse formato em poucos segundos ou até instantaneamente.
@@ -56,6 +63,8 @@ Por outro lado, o uso de senhas longas, combinado com algoritmos apropriados pod
 
 Embora, na teoria, seja verdade que qualquer senha possa ser quebrada por esse método, na prática isso dependerá inteiramente de suas características, como tamanho, complexidade e o algoritmo de hashing utilizado. O aumento exponencial no número de permutações pode superar em muito o tempo e/ou o poder computacional disponíveis. Quando o custo computacional necessário ultrapassa aquilo que o agente do ataque consegue sustentar, seja em tempo, poder de processamento ou outros recursos, a técnica simplesmente pode deixar de ser viável.
 
+&nbsp;
+
 ---
 
-[Índice da pesquisa](../README.md) · [Índice de técnicas](../03-tecnicas-de-quebra/README.md)
+[Índice da pesquisa](../../README.md#%C3%ADndice)
