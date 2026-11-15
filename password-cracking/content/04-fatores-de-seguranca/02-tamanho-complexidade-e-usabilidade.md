@@ -10,13 +10,9 @@ O NIST, _(NIST SP 800–63B-4, seção 3.1.1.2, item 5)_ diz:
 
 - _“Verificadores e Provedores de Serviços de Credenciais NÃO devem impor regras adicionais de composição (ex.: exigir mistura de diferentes tipos de caracteres).”_
 
-&nbsp;
-
 O item 1 dessa mesma seção reforça algo que já vimos:
 
 - _“Verificadores e CSPs devem exigir que senhas usadas como mecanismo de autenticação de fator único tenham mínimo de 15 caracteres. Senhas usadas em MFA podem ser menores, mas devem ter no mínimo oito caracteres.”_
-
-&nbsp;
 
 O item 6 diz o seguinte:
 
