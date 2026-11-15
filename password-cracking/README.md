@@ -2,7 +2,7 @@
 
 &nbsp;
 **Autor:** Marcos Pinheiro   
-**Origem:** Artigo originalmente publicado no Medium no perfil: https://medium.com/@marcos.aba
+ **Origem:** Artigo originalmente publicado no Medium no perfil: https://medium.com/@marcos.aba
 
 &nbsp;
 
