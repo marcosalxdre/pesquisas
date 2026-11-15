@@ -18,12 +18,16 @@ Nesse caso, se tivéssemos um dicionário contendo a palavra “cafe” e utiliz
 
 &nbsp;
 
+----
+
 **cafe00**   
 **cafe01**   
 **cafe02**   
 **…**   
 **cafe34**   
 **cafe35**
+
+----
 
 &nbsp;
 
