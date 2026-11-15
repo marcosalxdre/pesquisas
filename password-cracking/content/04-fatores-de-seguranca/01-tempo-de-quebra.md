@@ -57,4 +57,3 @@ Isso ocorre pois, embora o hashing seja uma operação utilizada em diversas ope
 ---
 
 [Índice da pesquisa](../../README.md#%C3%ADndice)
-[Índice da pesquisa](../README.md) · [Índice de técnicas](../03-tecnicas-de-quebra/README.md)
