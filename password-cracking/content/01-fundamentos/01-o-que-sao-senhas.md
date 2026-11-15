@@ -1,6 +1,5 @@
 # O que são senhas?
 &nbsp;
-
 Primeiramente, é importante definir o que é uma “senha”. Em termos gerais, podemos definir uma senha como sendo um código secreto, que geralmente existe na forma de uma palavra, frase ou como uma sequência aleatória de caracteres. Uma “senha” é combinada entre as partes envolvidas num processo de reconhecimento, sendo utilizada para confirmar a identidade e/ou autorizar acesso a algum local e/ou recurso. Em sistemas digitais, mais especificamente, as senhas (também conhecidas como passwords), são normalmente representadas por palavras ou alguma sequência arbitrária de caracteres, que podem incluir letras, números e outros símbolos. Se os caracteres permitidos forem restritos a números, o segredo é geralmente chamado de número de identificação pessoal (PIN).
 
 Segundo as Diretrizes de Identidade Digital do NIST (SP 800–63 e 800–63B-4 [Versão Atualizada 2025] Digital Identity Guidelines): “Uma senha é um tipo de autenticador de segredo memorizado (memorized secret authenticator), comumente referido como uma senha (password) ou, se numérica, um PIN, sendo um valor secreto destinado a ser escolhido e memorizado pelo usuário” (NIST SP 800–63B-4, Seção 3.1.1, subseção 3.1 “Password”).
