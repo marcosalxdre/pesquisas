@@ -2,6 +2,8 @@
 
 Como mencionado no inicio deste artigo, existem duas formas pelas quais ataques a senhas podem ocorrer: Ataques online e offline. Antes de abordarmos as técnicas de quebra de senhas offline, explicaremos brevemente as diferenças entre essas duas abordagens.
 
+&nbsp;
+
 ## _**Ataques Online**_
 
 Como vimos brevemente na introdução deste artigo, os ataques online ocorrem com o agente tentando adivinhar senhas interagindo diretamente com a interface de login de um site ou serviço online. É o tipo tradicional de ataque que você esperaria contra um terminal SSH exposto, uma aplicação web ou qualquer outra interface de autenticação.
@@ -11,6 +13,8 @@ Nesses ataques, o agente, por meio de alguma ferramenta automatizada ou script e
 Existem algumas limitações quando falamos de ataques a senhas online. Por exemplo, questões como a latência da rede, tempo de resposta do sistema atacado (lembre-se que a interação acontece em tempo real) e mecanismos de segurança que podem limitar a quantidade de tentativas de autenticação após um número de tentativas falhas, dificultam ou retardam ataques on-line.
 
 Outra limitação é que os ataques online são extremamente ruidosos, ou seja, fazem muito “barulho” e acabam gerando bastante tráfego suspeito na rede e, por isso, é muito provável que sejam detectados por praticamente qualquer mecanismo de detecção e alerta. Há técnicas utilizadas para contornar essas limitações, contudo, como mencionado anteriormente, uma explicação detalhada a respeito dessa abordagem não está no escopo deste artigo.
+
+&nbsp;
 
 ## Ataques Offline
 
@@ -26,6 +30,8 @@ Em termos de vantagens, a diferença entre ataques de senha offline e online é 
 
 A velocidade que pode ser empregada no ataque é outra grande diferença. Enquanto ataques online são limitados pela latência da rede, pelo tempo de resposta da aplicação e por restrições de taxa, os ataques offline permitem o uso de recursos de alto desempenho, como GPUs potentes, redes de computação distribuída e hardwares especializados, para testar milhões ou até bilhões de combinações de senhas em alta velocidade, sem gerar alertas. Nesse caso, a única limitação para o agente é a capacidade computacional disponível, mais a força do algoritmo de hashing utilizado.
 
+&nbsp;
+
 ---
 
-[Índice da pesquisa](../README.md) · [Índice de técnicas](../03-tecnicas-de-quebra/README.md)
+[Índice da pesquisa](../../README.md#%C3%ADndice)
