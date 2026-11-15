@@ -7,8 +7,6 @@
 
 <img src="mídias/passwordcracking.png" alt="Password Cracking" title="Password Cracking" width="500">
 
----
-
 ## Introdução
 
 As senhas são um dos mecanismos de segurança mais antigos e ainda hoje constituem a forma mais comum de autenticação digital. Elas funcionam como “chaves de acesso” e nos ajudam a proteger dispositivos, sistemas e informações sensíveis.
