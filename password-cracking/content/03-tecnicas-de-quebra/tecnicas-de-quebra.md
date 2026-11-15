@@ -6,7 +6,7 @@
 
 De modo geral, contudo, as técnicas podem ser agrupadas em duas abordagens principais que constituem a base da maioria das ferramentas de quebra de senhas: ataques de dicionário (lista de palavras) e força bruta (busca exaustiva). A partir dessas duas abordagens, surgem variações, como ataques híbridos, combinados e baseados em máscaras, entre outros.
 
-Há também uma outra abordagem conhecida como abordagem probabilística, que inclui métodos como PCFG, Markov e alguns modelos derivados. Essa abordagem é bastante conhecida e funciona utilizando estatística para testar os palpites mais prováveis antes dos demais, tornando a operação de quebra mais eficiente. Por ser uma abordagem um pouco mais avançada, tanto no conceito quanto na implementação, não a discutirei neste texto. No entanto, se desejar, você pode encontrar mais a respeito ![aqui](https://www.ieee-security.org/TC/SP2014/papers/AStudyofProbabilisticPasswordModels.pdf).
+Há também uma outra abordagem conhecida como abordagem probabilística, que inclui métodos como PCFG, Markov e alguns modelos derivados. Essa abordagem é bastante conhecida e funciona utilizando estatística para testar os palpites mais prováveis antes dos demais, tornando a operação de quebra mais eficiente. Por ser uma abordagem um pouco mais avançada, tanto no conceito quanto na implementação, não a discutirei neste texto. No entanto, se desejar, você pode encontrar mais a respeito [aqui](https://www.ieee-security.org/TC/SP2014/papers/AStudyofProbabilisticPasswordModels.pdf).
 
 &nbsp;
 
