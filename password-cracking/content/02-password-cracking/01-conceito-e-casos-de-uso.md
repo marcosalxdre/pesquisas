@@ -14,6 +14,8 @@ Definindo tecnicamente, é o processo de recuperar um segredo em texto claro a p
 
 A quebra de senhas, em seu uso legítimo, é normalmente empregada quando, por exemplo:
 
+&nbsp;
+
 - Se faz necessário recuperar senhas esquecidas ou perdidas;
 
 Administradores de sistemas frequentemente acabam enfrentando situações em que precisam recuperar senhas. Por meio da quebra de senhas é possível executar esta tarefa, recuperando senhas locais perdidas ou esquecidas quando não é possível recuperá-las por meio de procedimentos tradicionais de redefinição.
