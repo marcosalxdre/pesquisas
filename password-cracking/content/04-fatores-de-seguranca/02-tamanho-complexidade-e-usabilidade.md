@@ -73,3 +73,4 @@ Esses comportamentos mostram que, embora os conceitos de tamanho, complexidade e
 ---
 
 [Índice da pesquisa](../../README.md#%C3%ADndice)
+
