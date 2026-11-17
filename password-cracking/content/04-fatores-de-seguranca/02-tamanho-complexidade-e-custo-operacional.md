@@ -1,6 +1,6 @@
 # Tamanho, complexidade e tempo necessário para operação de transformação da senha são tudo?
 
-Uma questão extremamente importante é que esses três conceitos, quando aplicados ao contexto real de usuários humanos sendo responsáveis por criar senhas fortes, não contam toda a ópera. A responsabilidade do usuário não acaba no momento da criação da senha. Ele precisará memorizá-la e recuperá-la quando necessário, e a forma humana de pensar inevitavelmente faz com que surjam estratégias que nem sempre estarão alinhadas com as melhores práticas de segurança.
+Uma questão extremamente importante é que esses três conceitos, quando aplicados ao contexto real de usuários humanos sendo responsáveis por criar senhas fortes, não contam toda a ópera. A responsabilidade do usuário não acaba no momento da criação da senha. Ele precisará memorizá-la e recuperá-la quando necessário, e a forma humana de pensar frequentemente faz com que surjam estratégias que nem sempre estarão alinhadas com as melhores práticas de segurança.
 
 A despeito de já termos discutido as características que tornam uma senha mais forte contra ataques offline, vamos analisar o que as instituições de segurança recomendam sobre como, com base nesse conhecimento, deve-se orientar os usuários sobre como criarem suas senhas:
 
