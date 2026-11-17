@@ -64,7 +64,7 @@ Também:
 
 &nbsp;
 
-Em outras palavras, quando sistemas impõem requisitos de complexidade elevados, os usuários inevitavelmente procuram estratégias para registrar ou memorizar suas senhas, e muitas dessas estratégias acabam subvertendo o propósito original dessas exigências, que é aumentar a segurança das senhas.
+Em outras palavras, quando sistemas impõem requisitos de complexidade elevados, os usuários frequentemente procuram estratégias para registrar ou memorizar suas senhas, e muitas dessas estratégias acabam subvertendo o propósito original dessas exigências, que é aumentar a segurança das senhas.
 
 Esses comportamentos mostram que, embora os conceitos de tamanho, complexidade e custo computacional sejam os principais fatores relacionados a criação de senhas fortes, eles precisam ser equilibrados com a forma como as pessoas realmente criam, usam e lembram suas senhas. Sem essa consideração, exigências rigorosas podem produzir o efeito contrário ao desejado, incentivando práticas que tornam as senhas menos seguras e mais previsíveis.
 
